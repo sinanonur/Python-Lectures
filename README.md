@@ -1,5 +1,5 @@
 
-# Python Dersleri 
+# Python Dersleri
 
 Not: [Rahatg Kumarmp](https://github.com/rajathkumarmp)'tan alınan Ipython notebook kullanarak Python derslerine ait içerik alınarak Türkçeye çevirilmiştir. Zamanla yeni içerik de eklenebilir., [Bağlantı](https://github.com/rajathkumarmp/Python-Lectures)
 Note: Python Lectures using Ipython notebooks are taken from [Rahatg Kumarmp](https://github.com/rajathkumarmp) and translated into Turkish, [Link](https://github.com/rajathkumarmp/Python-Lectures). New Content can be added in time.
@@ -7,84 +7,81 @@ Note: Python Lectures using Ipython notebooks are taken from [Rahatg Kumarmp](ht
 
 ## Introduction
 
-Python is a modern, robust, high level programming language. It is very easy to pick up even if you are completely new to programming.
+Python modern, güçlü ve yüksek seviye bir programlama dilidir. Programlamaya yeniyseniz bile öğrenmesi oldukça koalydır.
 
-## Installation
+## Yükleme
 
-Mac OS X and Linux comes pre installed with python. Windows users can download python from https://www.python.org/downloads/ .
+Mac OS X ve Linux'ta genellikle Python önyğklenmiş olarak gelir. Windows kullanıcıları şu adresten python indirebilirler: https://www.python.org/downloads/ .
 
-To install IPython run,
+IPython yüklemek için aşşağıdaki komutu çalıştırın,
 
     $ pip install ipython[all]
-    
-This will install all the necessary dependencies for the notebook, qtconsole, tests etc.
 
-### Installation from unofficial distributions
+Bu, notebook, qtconsole, test gibi gerekli gereksinimleri yükleyecektir.    
 
-Installing all the necessary libraries might prove troublesome. Anaconda and Canopy comes pre packaged with all the necessary python libraries and also IPython.
+### Resmi olmayan dağıtımlardan yükleme
+
+Gerekli bütün kütüphaneleri yüklemek sıkıntılı bir iş olabilir. Anaconda ve Canopy bütün gerekli python kütüphaneleri ve IPython önyüklü olarak gelirler.
 
 #### Anaconda
 
-Download Anaconda from https://www.continuum.io/downloads
+Anaconda'yı https://www.continuum.io/downloads adresinden indirebilirsiniz.
 
-Anaconda is completely free and includes more than 300 python packages. Both python 2.7 and 3.4 options are available.
+Anaconda tamamen bedava ve özgür bir yazılımdır ve 300den fazla python paketi içerir. Pythonun 2.7 ve 3.4 versiyonlarını destekler.
 
 #### Canopy
 
-Download Canopy from https://store.enthought.com/downloads/#default
+Canopy'yi https://store.enthought.com/downloads/#default adresinden indirebilirsiniz.
 
-Canopy has a premium version which offers 300+ python packages. But the free version works just fine. Canopy as of now supports only 2.7 but it comes with its own text editor and IPython environment.
+Canopynin 300+ python paketi sunan bir premium versiyonu vardır. Fakat bedava sürümü de yeterince iyidir. Canopy şu anda sadece 2.7 destekler fakat kendi metin editörü ve IPython ortamıyla gelir.
 
-## Launching IPython Notebook
+## IPython Notebook'u açma
 
-From the terminal
+Terminalden
 
     ipython notebook
 
-In Canopy and Anaconda, Open the respective terminals and execute the above.
+Canopy ve Anaconda'da ilgili terminali açıp yukarıdaki komtu girin
 
-## How to learn from this resource?
+## Bu kaynağı nasıl kullanabilirim?
 
-You can download the pdf copy from here : [Get Started with Python](https://github.com/rajathkumarmp/Python-Lectures/blob/master/Python.pdf)
-
-It is better to download all the ipython notebooks from this repository https://github.com/rajathkumarmp/Python-Lectures and learn it on the notebook itself rather than having to refer to a pdf.
-
-Launch ipython notebook from the folder which contains the notebooks. Open each one of them
+ipython notebook'u notebookları içeren dizinden çalıştırın. Hepsini açarak şunları yapın:
 
     Cell > All Output > Clear
-    
-This will clear all the outputs and now you can understand each statement and learn interactively.
 
-## Table of contents
+Bu bütün çıktıları temizleyecektir. Böylece her ifadeyi anlayarak interaktif olarak çalışabilirsiniz.
 
-
-
-[00 - Introduction and Installation](http://nbviewer.ipython.org/github/rajathkumarmp/Python-Lectures/blob/master/00.ipynb)
+## İçindekiler
 
 
-[01 - Variable, Operators and Built-in Functions](http://nbviewer.ipython.org/github/rajathkumarmp/Python-Lectures/blob/master/01.ipynb)
+[00 - Giriş ve yükleme](http://nbviewer.ipython.org/github/sinanonur/Python-Lectures/blob/master/00.ipynb)
 
 
-[02 - Print Statement, Precision and FieldWidth](http://nbviewer.ipython.org/github/rajathkumarmp/Python-Lectures/blob/master/02.ipynb)
+[01 - Değişkenleri İşlemler ve Gömülü foksiyonlar ](http://nbviewer.ipython.org/github/sinanonur/Python-Lectures/blob/master/01.ipynb)
 
 
-[03 - Lists, Tuples and Sets](http://nbviewer.ipython.org/github/rajathkumarmp/Python-Lectures/blob/master/03.ipynb)
+[02 - Print ifadesi, Precision ve FieldWidth](http://nbviewer.ipython.org/github/sinanonur/Python-Lectures/blob/master/02.ipynb)
 
 
-[04 - Strings and Dictionaries](http://nbviewer.ipython.org/github/rajathkumarmp/Python-Lectures/blob/master/04.ipynb)
+[03 - List, Tuple and Set](http://nbviewer.ipython.org/github/sinanonur/Python-Lectures/blob/master/03.ipynb)
 
 
-[05 - Control Flow Statements](http://nbviewer.ipython.org/github/rajathkumarmp/Python-Lectures/blob/master/05.ipynb)
+[04 - String ve Dictionary](http://nbviewer.ipython.org/github/sinanonur/Python-Lectures/blob/master/04.ipynb)
 
 
-[06 - Functions](http://nbviewer.ipython.org/github/rajathkumarmp/Python-Lectures/blob/master/06.ipynb)
+[05 - Akış kontrolü](http://nbviewer.ipython.org/github/sinanonur/Python-Lectures/blob/master/05.ipynb)
 
 
-[07 - Classes](http://nbviewer.ipython.org/github/rajathkumarmp/Python-Lectures/blob/master/07.ipynb)
+[06 - Fonksiyonlar](http://nbviewer.ipython.org/github/sinanonur/Python-Lectures/blob/master/06.ipynb)
 
 
+[07 - Sınıflar](http://nbviewer.ipython.org/github/sinanonur/Python-Lectures/blob/master/07.ipynb)
 
-These are online read-only versions.
+
+Bunlar online salt-okunur versiyonlardır.
+
+##Lisans
+Bu çalışma Creative Commons 3.0 Yerelleştirilmemiş Lisans ile lisanslanmıştır. Bu lisansın bir kopyası için https://creativecommons.org/licenses/by/3.0/deed.tr adresini ziyaret ediniz.
 
 ## License
 
