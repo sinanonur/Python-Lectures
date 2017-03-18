@@ -2,6 +2,7 @@
 # Python Dersleri
 
 Not: [Rahatg Kumarmp](https://github.com/rajathkumarmp)'tan alınan Ipython notebook kullanarak Python derslerine ait içerik alınarak Türkçeye çevirilmiştir. Zamanla yeni içerik de eklenebilir., [Bağlantı](https://github.com/rajathkumarmp/Python-Lectures)
+
 Note: Python Lectures using Ipython notebooks are taken from [Rahatg Kumarmp](https://github.com/rajathkumarmp) and translated into Turkish, [Link](https://github.com/rajathkumarmp/Python-Lectures). New Content can be added in time.
 
 
