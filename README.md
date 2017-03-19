@@ -6,13 +6,13 @@ Not: [Rahatg Kumarmp](https://github.com/rajathkumarmp)'tan alınan Ipython note
 Note: Python Lectures using Ipython notebooks are taken from [Rahatg Kumarmp](https://github.com/rajathkumarmp) and translated into Turkish, [Link](https://github.com/rajathkumarmp/Python-Lectures). New Content can be added in time.
 
 
-## Introduction
+## Giriş
 
-Python modern, güçlü ve yüksek seviye bir programlama dilidir. Programlamaya yeniyseniz bile öğrenmesi oldukça koalydır.
+Python modern, güçlü ve yüksek seviye bir programlama dilidir. Programlamaya yeniyseniz bile öğrenmesi oldukça kolaydır.
 
 ## Yükleme
 
-Mac OS X ve Linux'ta genellikle Python önyğklenmiş olarak gelir. Windows kullanıcıları şu adresten python indirebilirler: https://www.python.org/downloads/ .
+Mac OS X ve Linux'ta genellikle Python önyğklenmiş olarak gelir. Windows kullanıcıları şu adresten python indirebilirler: https://www.python.org/downloads/ 
 
 IPython yüklemek için aşşağıdaki komutu çalıştırın,
 
@@ -42,7 +42,7 @@ Terminalden
 
     ipython notebook
 
-Canopy ve Anaconda'da ilgili terminali açıp yukarıdaki komtu girin
+Canopy ve Anaconda'da ilgili terminali açıp yukarıdaki komtu girin.
 
 ## Bu kaynağı nasıl kullanabilirim?
 
@@ -81,7 +81,9 @@ Bu bütün çıktıları temizleyecektir. Böylece her ifadeyi anlayarak interak
 
 Bunlar online salt-okunur versiyonlardır.
 
-##Lisans
+
+## Lisans
+
 Bu çalışma Creative Commons 3.0 Yerelleştirilmemiş Lisans ile lisanslanmıştır. Bu lisansın bir kopyası için https://creativecommons.org/licenses/by/3.0/deed.tr adresini ziyaret ediniz.
 
 ## License
